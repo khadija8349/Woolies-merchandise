@@ -69,4 +69,4 @@ It includes data cleaning, transformation, pivot tables, and an interactive dash
 
 ## 👩‍💻 Author
 **Khadija**  
-Data Analyst | Excel • SQL • Python  
+Health AI Researcher
