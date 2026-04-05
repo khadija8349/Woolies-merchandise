@@ -49,13 +49,13 @@ It includes data cleaning, transformation, pivot tables, and an interactive dash
 
 ---
 
-## 🔍 Key Insights (Examples)
+## 🔍 Key Insights
 - Category X generated the highest revenue  
 - Region Y shows consistent growth  
 - Product Z is the top performer  
 - Sales peak during specific months  
 
-*(Update these based on your actual findings.)*
+
 
 ---
 
